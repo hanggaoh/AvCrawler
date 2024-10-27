@@ -27,7 +27,7 @@ def parse_page(url):
 
 #%%
 # Step 1: Fetch the HTML content of the page
-url = "https://av-wiki.net/av-actress/%e5%a4%a7%e6%a7%bb%e3%82%86%e3%82%8a%e3%81%8b/"
+url = "https://av-wiki.net/av-actress"
 parse_page(url=url)
 
 
