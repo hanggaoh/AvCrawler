@@ -1,1 +1,1 @@
-# AvCrawler
+# Crawler with cronjob and parser and database and magnet support
